@@ -1,0 +1,11 @@
+{
+  "name":"MIND MONEY",
+  "short_name":"MIND MONEY",
+  "description":"Personal savings goals and progress tracker",
+  "start_url":"./index.html",
+  "scope":"./",
+  "display":"standalone",
+  "background_color":"#f5f5f5",
+  "theme_color":"#111111",
+  "icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
